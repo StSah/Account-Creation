@@ -7,7 +7,7 @@ This application is basically a register and login application build on Spring B
 Add this extension in Chrome for allowing Control-Allow-Origin
 https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
 
-1. Below are the details and framerworks used for the project.
+1. Below are the details and frameworks used for the project.
   Framework-Spring Boot
   Database- Oracle
   UI-HTML,CSS,JavaScript
