@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 3-0
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: swati_000
+Implementation-Vendor-Id: dt-app-signin
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/3-0/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
